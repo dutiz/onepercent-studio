@@ -26,10 +26,10 @@ export default function RootLayout({
           <div
             className="
               absolute
-              -top-105
-              -left-90
-              w-230
-              h-230
+              -top-80
+              -left-100
+              w-180
+              h-180
               rounded-full
               border
               border-white
@@ -40,8 +40,8 @@ export default function RootLayout({
           <div
             className="
               absolute
-              -top-65
-              -right-95
+              -top-80
+              -right-100
               w-180
               h-180
               rounded-full
@@ -54,8 +54,8 @@ export default function RootLayout({
           <div
             className="
               absolute
-              -top-65
-              -right-95
+              -top-85
+              -right-105
               w-200
               h-200
               rounded-full
