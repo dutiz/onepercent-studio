@@ -29,7 +29,7 @@ export default function Navigation() {
       className="bg-transparent shadow-lg top-0 flex items-center"
       style={{ zIndex: "99999" }}
     >
-      <div className="container">
+      <div className="container mx-auto max-w-7xl">
         <div className="flex flex-row items-center py-6 justify-between">
           <div className="md:w-1/2">
             <SVG src="/svg/logo.svg" className="w-auto h-16" />
